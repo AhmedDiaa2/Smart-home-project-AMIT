@@ -1,5 +1,5 @@
--First fianl project 
--embedded systems project for smart home using a 
+final project 
+embedded systems project for smart home using a 
 system for master and guest,
 EEPROM to save password, 
 buzzer for alarm, 
